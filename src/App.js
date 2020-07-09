@@ -28,6 +28,7 @@ function App() {
   const Foo = foo2(foo(Child));
   return (
     <div className="app">
+      {/*<Home/>*/}
       {/*<Child />*/}
       {/*<Foo />*/}
       {/*  <User /> */}
